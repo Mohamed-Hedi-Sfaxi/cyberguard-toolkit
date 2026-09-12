@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+/*import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/NavBar.jsx";
 import Footer from "./components/Footer.jsx";
@@ -46,4 +46,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/
