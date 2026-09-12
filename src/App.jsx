@@ -1,16 +1,16 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
+import Navbar from "./components/NavBar.jsx";
+import Footer from "./components/Footer.jsx";
 
-import Home from "./pages/Home";
-import Tools from "./pages/Tools";
-import Resources from "./pages/Resources";
-import About from "./pages/About";
-import PasswordChecker from "./tools/PasswordChecker";
-import ChecklistGenerator from "./tools/ChecklistGenerator";
-import PhishingQuiz from "./tools/PhishingQuiz";
-import ProToolkit from "./pages/ProToolkit";
+import Home from "./pages/Home.jsx";
+import Tools from "./pages/Tools.jsx";
+import Resources from "./pages/Resources.jsx";
+import About from "./pages/About.jsx";
+import PasswordChecker from "./tools/PasswordChecker.jsx";
+import ChecklistGenerator from "./tools/ChecklistGenerator.jsx";
+import PhishingQuiz from "./tools/PhishingQuiz.jsx";
+import ProToolkit from "./pages/ProToolkit.jsx";
 
 function App() {
   return (
