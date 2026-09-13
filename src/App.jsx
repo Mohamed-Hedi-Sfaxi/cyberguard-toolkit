@@ -11,6 +11,8 @@ import PasswordChecker from "./tools/PasswordChecker.jsx";
 import ChecklistGenerator from "./tools/ChecklistGenerator.jsx";
 import PhishingQuiz from "./tools/PhishingQuiz.jsx";
 import ProToolkit from "./pages/ProToolkit.jsx";
+import Privacy from "./pages/Privacy";
+import Terms from "./pages/Terms";
 
 function App() {
   return (
@@ -37,6 +39,8 @@ function App() {
 
             <Route path="/tools/phishing-quiz" element={<PhishingQuiz />} />
             <Route path="/pro-toolkit" element={<ProToolkit />} />
+            <Route path="/privacy" element={<Privacy />} />
+            <Route path="/terms" element={<Terms />} />
           </Routes>
         </main>
 

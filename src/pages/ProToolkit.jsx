@@ -1,4 +1,4 @@
-import { CheckCircle2, Download, ShieldCheck } from "lucide-react";
+import { CheckCircle2, ShieldCheck } from "lucide-react";
 
 function ProToolkit() {
   return (
@@ -26,14 +26,7 @@ function ProToolkit() {
           Get the Pro Toolkit
         </button>
 
-        <a
-          href="/downloads/CyberGuard_Small_Business_Security_Pro_Toolkit.pdf"
-          download
-          className="product-preview-link"
-        >
-          <Download size={16} />
-          Preview the PDF
-        </a>
+        
       </section>
 
       <section className="product-content">
