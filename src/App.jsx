@@ -11,10 +11,10 @@ import PasswordChecker from "./tools/PasswordChecker.jsx";
 import ChecklistGenerator from "./tools/ChecklistGenerator.jsx";
 import PhishingQuiz from "./tools/PhishingQuiz.jsx";
 import ProToolkit from "./pages/ProToolkit.jsx";
-import Privacy from "./pages/Privacy";
-import Terms from "./pages/Terms";
-import Contact from "./pages/Contact";
-import NotFound from "./pages/NotFound";
+import Privacy from "./pages/Privacy.jsx";
+import Terms from "./pages/Terms.jsx";
+import Contact from "./pages/Contact.jsx";
+import NotFound from "./pages/NotFound.jsx";
 
 function App() {
   return (
