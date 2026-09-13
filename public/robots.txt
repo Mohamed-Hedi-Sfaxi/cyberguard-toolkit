@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-CYBERGUARD-DOMAIN/sitemap.xml
+Sitemap: https://cyberguardtoolkit.pages.dev/sitemap.xml

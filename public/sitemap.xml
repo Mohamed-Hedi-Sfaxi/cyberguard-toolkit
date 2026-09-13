@@ -3,46 +3,46 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 >
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/tools</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/tools</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/tools/password-checker</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/tools/password-checker</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/tools/checklist-generator</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/tools/checklist-generator</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/tools/phishing-quiz</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/tools/phishing-quiz</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/resources</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/resources</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/pro-toolkit</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/pro-toolkit</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/about</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/about</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/contact</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/contact</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/privacy</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/privacy</loc>
   </url>
 
   <url>
-    <loc>https://YOUR-CYBERGUARD-DOMAIN/terms</loc>
+    <loc>https://cyberguardtoolkit.pages.dev/terms</loc>
   </url>
 </urlset>

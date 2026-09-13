@@ -25,10 +25,10 @@ function Contact() {
           </p>
 
           <a
-            href="mailto:hello@cyberguard.example"
+            href="mailto:cyberguardtoolkit@gmail.com"
             className="contact-link"
           >
-            hello@cyberguard.example
+            cyberguardtoolkit@gmail.com
           </a>
         </article>
 
