@@ -13,6 +13,8 @@ import PhishingQuiz from "./tools/PhishingQuiz.jsx";
 import ProToolkit from "./pages/ProToolkit.jsx";
 import Privacy from "./pages/Privacy";
 import Terms from "./pages/Terms";
+import Contact from "./pages/Contact";
+import NotFound from "./pages/NotFound";
 
 function App() {
   return (
@@ -41,6 +43,8 @@ function App() {
             <Route path="/pro-toolkit" element={<ProToolkit />} />
             <Route path="/privacy" element={<Privacy />} />
             <Route path="/terms" element={<Terms />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </main>
 

@@ -8,14 +8,13 @@ function Footer() {
           <div className="footer-brand">
             <strong>CyberGuard</strong>
 
-            <p>
-              Practical cybersecurity tools and resources for everyone.
-            </p>
+            <p>Practical cybersecurity tools and resources for everyone.</p>
           </div>
 
           <nav className="footer-links" aria-label="Footer navigation">
             <Link to="/resources">Resources</Link>
             <Link to="/about">About</Link>
+            <Link to="/contact">Contact</Link>
             <Link to="/privacy">Privacy</Link>
             <Link to="/terms">Terms</Link>
           </nav>

@@ -10,7 +10,7 @@ function Navbar() {
           <span>CyberGuard</span>
         </Link>
 
-        <nav>
+        <nav className="navbar-nav" aria-label="Main navigation">
           <Link to="/">Home</Link>
           <Link to="/tools">Tools</Link>
           <Link to="/resources">Resources</Link>
